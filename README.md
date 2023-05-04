@@ -1,7 +1,5 @@
-![Header image](https://www.flaticon.com/free-icon/backend_6213731)
 <h1 align="center">Hi 👋, I'm Sara Lahrach</h1>
 <h3 align="center">A passionate computer science student at 1337</h3>
-<img align="right" width="400" src="https://dribbble.com/shots/4332641-Developer”>
 
 - 🔭 I’m currently working on **ft_transcendence**
 
