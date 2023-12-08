@@ -3,9 +3,9 @@
 
 <div align="center">
   
- 🔭 I’m currently working on **ft_transcendence_42** 🔭
+ 🔭 I’m currently working on **Portfolio_Maker** 🔭
 
- 🌱 I’m currently learning **NestJS, mySQL** 🌱
+ 🌱 I’m currently learning **Python** 🌱
 
  💬 Ask me about **C, C++** 💬
 
