@@ -3,8 +3,8 @@
 
 <div align="center">
 
-🔭 Currently freelancing full-time on **Fiverr**, building **web platforms**, **SaaS products**, and **AI-powered solutions** for businesses  
-🚀 I also co-lead a micro-agency helping brands go online — from **custom AI tools** to complete **web solutions**  
+🔭 Software engineer with hands-on experience building <b>SaaS products</b>, <b>automation platforms</b>, and <b>AI-driven systems</b>  
+🚀 Worked across <b>early-stage product teams</b> and <b>fast-moving client projects</b>, owning features from <b>idea to production</b>
 🧠 I specialize in **backend architecture**, **DevOps**, and **API integrations**  
 💬 Ask me about **TypeScript, Node.js, Prisma, Docker, CI/CD, or Discord bots**  
 📫 Reach me at **slahrach.me@gmail.com**  
